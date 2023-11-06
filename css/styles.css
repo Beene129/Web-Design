@@ -1,0 +1,12 @@
+html {
+  background-color: aqua;
+}
+.myart {
+  color: red;
+}
+.border {
+  border-style: dotted;
+}
+.chang-font {
+  font-family: "Lucida Console", "Courier New", monospace;
+}

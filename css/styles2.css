@@ -1,0 +1,15 @@
+.border-teach {
+  border: 5px solid black;
+}
+
+nav > ul {
+  display: flex;
+  flex-direction: column;
+
+}
+
+nav > ul > li {
+  padding: 16px 0 16px 52px;
+}
+
+/* * { border: 1px solid black; } */
